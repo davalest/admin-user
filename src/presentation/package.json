@@ -1,0 +1,9 @@
+{
+  "name": "presentation",
+  "version": "0.1.0",
+  "main": "App.js",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
