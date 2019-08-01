@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "data": "file:src/data",
     "presentation": "file:src/presentation",
     "react-scripts": "3.0.1"
   },
